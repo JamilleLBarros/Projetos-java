@@ -14,7 +14,7 @@ public class Salario {
         System.out.println("Digite seus salários:");
         float Salario3= ler.nextInt();
 
-        float media = (Salario1+Salario2+Salario3)/4;
+        float media = (Salario1+Salario2+Salario3)/3;
         System.out.println(media);
 
      
