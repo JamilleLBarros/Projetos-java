@@ -17,10 +17,5 @@ public class Exerl {
         }else{
             System.out.println("Os números são iguais");
         }
-
-
-
-
-
     }
 }
